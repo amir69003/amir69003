@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Étudiant en L3 Informatique à l'Université Lyon 1<br>👨‍💻 Passionné par la programmation et l'intelligence artificielle<br>🤝 Aime collaborer et contribuer à des projets open source<br>🔍 Toujours en quête d'apprentissage et de nouvelles connaissances en informatique<br>🧠 Aspirant à se spécialiser dans le domaine de l'intelligence artificielle<br>(j'utilise principalement GitForge c'est normal que j'ai des stats de personne qui code pas)
+🎓 Étudiant en L3 Informatique à l'Université Lyon 1<br>👨‍💻 Passionné par la programmation et l'intelligence artificielle<br>🤝 Aime collaborer et contribuer à des projets open source<br>🔍 Toujours en quête d'apprentissage et de nouvelles connaissances en informatique<br>🧠 Aspirant à se spécialiser dans le domaine de l'intelligence artificielle<br>(j'utilise principalement GitForge c'est normal que j'ai des stats de personne qui ne code pas)
 
 
 ## 🌐 Socials:
